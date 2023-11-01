@@ -17,7 +17,7 @@ Welcome to the Automation Tests for TaskBoard repository! This repository contai
 ### TaskBoard
 <img src="/TaskBoard Screenshots/TaskBoard.png" alt="Task Board">
 
-Task board link: https://taskboard.nakov.repl.co/tasks/create
+Task board link: https://taskboard.nakov.repl.co/
 
 ## TaskBoard-ApiTests
 
